@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#menuOrders > div{
+    display: none;
+}
+#menuOrders:hover > div{
+    display: block;
+}
+#menuOrders li{
+    font-size: 20px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+ /* icon 1 2 3 4 5 */
+ #icon1:hover{
+    background-color:rgba(255, 0, 0, 0.806);
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+ }
+#icon1 > div > div{
+    display: none; 
+}
+#icon1:hover > div > div{
+    display: block;  
+}
+
+
+#icon2:hover{
+    background-color:rgba(255, 0, 0, 0.806);
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+ }
+#icon2 > div > div{
+    display: none;
+}
+#icon2:hover > div > div{
+    display: block;
+}
+
+
+#icon3:hover{
+    background-color:rgba(255, 0, 0, 0.806);
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+ }
+#icon3 > div > div{
+    display: none;
+}
+#icon3:hover > div > div{
+    display: block;
+}
+
+
+#icon4:hover{
+    background-color:rgba(255, 0, 0, 0.806);
+    border-radius: 40%;
+ }
+#icon4 > div > div{
+    display: none;
+}
+#icon4:hover > div > div{
+    display: block;
+}
+
+
+#icon5:hover{
+    background-color:rgba(255, 0, 0, 0.806);
+    border-radius: 40%;
+ }
+#icon5 > div > div{
+    display: none;
+}
+#icon5:hover > div > div{
+    display: block;
+}
+
+
+/* icon 1 { */
+    /* classe menu interno */
+    .menuT1 > div{
+        display: none;
+    }
+    .menuT1:hover > div{
+        display: block;
+    }
+    .menuT1 li{
+        font-size: 20px;
+        text-align: center;
+        margin: 20px 0;
+    }
+    /* fine classe */
+
+    
+    #lucas{
+        opacity: 0.7;
+        transition: all 0.3s linear;
+    }
+    #lucas:hover{
+        opacity: 1;
+    }
+
+    #lucas > div{
+        display: none;
+    }
+    #lucas:hover > div{
+        display: block;
+    }
+
+
+
+
+    #laura{
+        opacity: 0.7;
+        transition: all 0.3s linear;
+    }
+    #laura:hover{
+        opacity: 1;
+    }
+    #laura > div{
+        display: none;
+    }
+    #laura:hover > div{
+        display: block;
+    }
+
+
+    #giovanni{
+        opacity: 0.7;
+        transition: all 0.3s linear;
+    }
+    #giovanni:hover{
+        opacity: 1;
+    }
+    #giovanni > div{
+        display: none;
+    }
+    #giovanni:hover > div{
+        display: block;
+    }
+
+/* icon 2 { */
+    .colorIcon{
+        color: gold;
+        font-size: 35px;
+        display: inline-block;
+        position: absolute;
+        
+    }
+
+    #anna{
+        opacity: 0.7;
+        transition: all 0.3s linear;
+    }
+    #anna:hover{
+        opacity: 1;
+    }
+    #anna > div{
+        display: none;
+    }
+    #anna:hover > div{
+        display: block;
+    }
+
+
+    #aldo{
+        opacity: 0.7;
+        transition: all 0.3s linear;
+    }
+    #aldo:hover{
+        opacity: 1;
+    }
+    #aldo > div{
+        display: none;
+    }
+    #aldo:hover > div{
+        display: block;
+    }
+
+
+    #mauro{
+        opacity: 0.7;
+        transition: all 0.3s linear;
+    }
+    #mauro:hover{
+        opacity: 1;
+    }
+    #mauro > div{
+        display: none;
+    }
+    #mauro:hover > div{
+        display: block;
+    }
+
+
+    #maura{
+        opacity: 0.7;
+        transition: all 0.3s linear;
+    }
+    #maura:hover{
+        opacity: 1;
+    }
+    #maura > div{
+        display: none;
+    }
+    #maura:hover > div{
+        display: block;
+    }
+
+
+    #mauri{
+        opacity: 0.7;
+        transition: all 0.3s linear;
+    }
+    #mauri:hover{
+        opacity: 1;
+    }
+    #mauri > div{
+        display: none;
+    }
+    #mauri:hover > div{
+        display: block;
+    }
+
+
+    #carlo{
+        opacity: 0.7;
+        transition: all 0.3s linear;
+    }
+    #carlo:hover{
+        opacity: 1;
+    }
+    #carlo > div{
+        display: none;
+    }
+    #carlo:hover > div{
+        display: block;
+    }
+
